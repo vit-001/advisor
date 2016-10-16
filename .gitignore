@@ -1,3 +1,8 @@
+# Big data files
+*.uld
+*.old
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
